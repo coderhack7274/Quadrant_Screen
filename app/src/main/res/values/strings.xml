@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quadrant Screen</string>
+    <string name="first_title">First Box</string>
+    <string name="first_description">This is first box</string>
+    <string name="second_title">Second Box</string>
+    <string name="second_description">This is second box</string>
+    <string name="third_title">Third Box</string>
+    <string name="third_description">This is third box</string>
+    <string name="fourth_title">Fourth Box</string>
+    <string name="fourth_description">This is fourth box</string>
+</resources>
